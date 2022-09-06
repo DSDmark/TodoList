@@ -3,6 +3,7 @@
   "version": "v0.1.0",
   "description": "This App Wnat To BeCome Your First Appp",
   "main": "src/index",
+  "homepage": "https://DSDmark.github.io/TodoList",
   "keywords": [
     "typescript",
     "react",
@@ -18,10 +19,13 @@
     "@types/react": "17.0.20",
     "@types/react-dom": "^17.0.17",
     "@types/uuid": "^8.3.4",
+    "gh-pages": "^4.0.0",
     "typescript": "4.4.2"
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
