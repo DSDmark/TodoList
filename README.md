@@ -18,7 +18,7 @@
 2. Find the downloaded zipped file on your pc and extract it.
 3. Then install nodejs in your local system
 4. Open Root Directory,
-5. Rum commend.
+5. Run commend.
 > ```npm run start```
 Once you are done  you can close the application in your terminal to quit the application.
 
