@@ -1,6 +1,5 @@
 import React, { FC, useContext } from 'react';
 import { todoContext } from '../../Context';
-import { Todo } from './TodoItemsList';
 import { ToggleTodo } from './ToggleTodo';
 import { DeleteTodolist } from '../index';
 

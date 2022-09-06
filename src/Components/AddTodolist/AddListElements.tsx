@@ -1,4 +1,3 @@
-import { Todo } from '../index';
 
 const AddListElements: (
     e: any,

@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import todoContext from './Context';
-import { Todo } from '../Components';
 import { v4 } from 'uuid';
 
 interface Props {
