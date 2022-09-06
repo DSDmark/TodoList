@@ -1,9 +1,8 @@
 {
   "name": "react-typescript",
-  "version": "1.0.0",
-  "description": "React and TypeScript example starter project",
-  "main": "dist/index",
-  "typings": "dist/index",
+  "version": "v0.1.0",
+  "description": "This App Wnat To BeCome Your First Appp",
+  "main": "src/index",
   "keywords": [
     "typescript",
     "react",
