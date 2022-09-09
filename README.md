@@ -27,7 +27,7 @@ Once you are done  you can close the application in your terminal to quit the ap
 
 ## Try Out TodoList Demo
 
-<a href="https://dsdmark.github.io/TodoList/" alt="TodoList Demo"></a>
+<a href="https://dsdmark.github.io/TodoList/" alt="TodoList Demo">TodoList Demo</a>
 
 </div>
 
