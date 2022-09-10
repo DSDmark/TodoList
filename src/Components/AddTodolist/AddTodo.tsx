@@ -5,8 +5,8 @@ import { useContext } from 'react';
 
 const AddTodo: FC = () => {
     const [, setState] = useContext<any>(todoContext);
-
     const [inputState, setInputState] = useState<string>('');
+ 
     return (
         <>
             <div>
