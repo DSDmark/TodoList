@@ -1,3 +1,4 @@
+import {Title} from "../Heading";
 
 const AddListElements: (
     e: any,
@@ -14,6 +15,7 @@ const AddListElements: (
 
     setState((perv: Todo[]) => [...perv, newAddTodo]);
     setInputState('');
+    Title("TodoList | Adding 👌");
 };
 
 export default AddListElements;

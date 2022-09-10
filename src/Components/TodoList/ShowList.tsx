@@ -18,7 +18,7 @@ const ShowList: FC<Props> = ({ Data }) => {
                             role="img"
                             aria-label="emojis"
                             style={{ fontSize: '2rem' }}
-                            onClick={() => ToggleTodo(Data.id, setState)}
+                            onClick={() => ToggleTodo(Data, setState)}
                         >
                             {Data.isTodoDone ? '👻' : '💀'}
                         </span>
@@ -27,7 +27,7 @@ const ShowList: FC<Props> = ({ Data }) => {
                                 fontSize: '1.5rem',
                                 textDecoration: Data.isTodoDone ? 'line-through' : '',
                             }}
-                            onClick={() => ToggleTodo(Data.id, setState)}
+                            onClick={() => ToggleTodo(Data, setState)}
                         >
                             {Data.text}
                         </span>
