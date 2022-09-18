@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/github/license/DSDmark/TodoList)
 ![GitHub language count](https://img.shields.io/github/languages/count/DSDmark/TodoList)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DSDmark/TodoList)
-[![Deploy static content to Pages](https://github.com/DSDmark/TodoList/actions/workflows/FUNDING.yml/badge.svg)](https://github.com/DSDmark/SBHostel-webTemplate/actions/workflows/static.yml)
+[![pages-build-deployment](https://github.com/DSDmark/TodoList/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/DSDmark/TodoList/actions/workflows/pages/pages-build-deployment)
 
 #  Your First Application 🤟
 ## Walcome to Webdev 😊
