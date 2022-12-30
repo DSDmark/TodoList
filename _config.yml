@@ -1,4 +1,0 @@
-redirects:
-  - from: /TodoList/*
-    to: https://github.com/DSDmark
-    status: 404
