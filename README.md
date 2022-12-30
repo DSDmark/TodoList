@@ -15,20 +15,19 @@
 
 <div align="left">
 
-
 ---
 
 ### How to install
 
 1. Click on green **Clone or download** button and choose Download ZIP.
 2. Find the downloaded zipped file on your pc and extract it.
-3. Then install nodejs in your local system
-4. Open Root Directory,
+3. Then install `nodejs` and `NPM` in your local system
+4. Open Root Directory and install all dependences by that commend `npm install`,
 5. Run commend.
 > ```npm run start```
 
 Once you are done  you can close the application in your terminal to quit the application.
-
+dependences 
 ---
 
 ## Try Out TodoList Demo
@@ -36,7 +35,7 @@ Once you are done  you can close the application in your terminal to quit the ap
 <a href="https://dsdmark.github.io/TodoList/" alt="TodoList Demo">TodoList Demo</a>
 
 </div>
-
+dependences 
 ### Todo List
 
 ![Todo List perview](public/images/perview.gif "Todo List")
